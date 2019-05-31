@@ -1,4 +1,4 @@
-# CSV reader spring boot kafka example
+# CSV reader, a Spring boot Kafka example
 
 Goal of this app is to read a csv file and save it in a database. To prove kafka, we send the csv line to kafka and then read them and save them in the database.
 
